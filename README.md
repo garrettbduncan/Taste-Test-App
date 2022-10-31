@@ -9,7 +9,4 @@ That being said, this app is designed to assist your crew in determining either:
 1. The best restaurant that serves a single item (what restaurant sells the best chicken sandwich), or
 2. The best item at a restaurant (what item on the menu is everyone's fav).
 
-You can find an up and running version of the app at [this link](https://garrettbduncan.shinyapps.io/tastetest_final/)
- 
-https://garrettbduncan.shinyapps.io/tastetest_final/
- 
+You can find a current, though still patchy version of the app at [this link](https://garrettbduncan.shinyapps.io/tastetest_final/)
